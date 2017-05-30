@@ -1,0 +1,61 @@
+body, html{
+  height:100%;
+  margin 0;
+}
+body{
+  background-image: url("https://ak3.picdn.net/shutterstock/videos/10346249/thumb/1.jpg");
+  background-size: contain;
+  background-position: center;
+  background-color:#444;
+  font-size: 18px;
+}
+body, a:link, a:visited, a:active{
+  color: lightblue;
+}
+.title, .addDancerButton{
+  padding:5px 12px;
+  float:right;
+}
+.topbar{
+  height:32px;
+  background-color: #555;
+}
+.title{
+  background-color: #777;
+}
+.dancer{
+  position: absolute;
+}
+
+.blinkyDancer {
+  width: 250px;
+  height: 340px;
+}
+
+.napoleanDancer {
+  width: 250px;
+  height: 200px;
+}
+.bearDancer {
+  width: 250px;
+  height: 310px;
+}
+.girlDancer {
+  width: 250px;
+  height: 310px;
+}
+.fatSpidey {
+  width: 220px;
+  height: 290px;
+}
+
+audio {
+  position: fixed;
+  bottom: 0;
+}
+*/
+/*.blinkyDancer {
+    width: 250px;
+    height: 340px;
+    <!--position:absolute;-->
+}*/
